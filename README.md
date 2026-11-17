@@ -1,1 +1,6 @@
-# My-first-GitHub-project.
+# My First GitHub Project
+
+Hello! My name is Nadar.
+
+This is my first GitHub repository.
+I am learning how to use GitHub.
